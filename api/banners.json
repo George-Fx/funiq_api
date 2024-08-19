@@ -2,12 +2,12 @@
     "banners": [
         {
             "id": 1,
-            "image": "https://george-fx.github.io/kastelli/assets/banners/01.jpg",
+            "image": "https://george-fx.github.io/funiq_api/assets/banners/01.jpg",
             "promotion": "Take 50% Off Now!"
         },
         {
             "id": 2,
-            "image": "https://george-fx.github.io/kastelli/assets/banners/02.jpg",
+            "image": "https://george-fx.github.io/funiq_api/assets/banners/02.jpg",
             "promotion": "Take 50% Off Now!"
         }
     ]
