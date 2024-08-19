@@ -397,8 +397,8 @@
     },
     {
       "id": 6,
-      "name": "Evening dress",
-      "price": 149.9,
+      "name": "Armchair grey",
+      "price": 229.7,
       "oldPrice": 185.0,
       "image": "https://george-fx.github.io/funiq_api/assets/products/06.jpg",
       "images": [
@@ -430,7 +430,7 @@
         }
       ],
       "tags": [
-        "dresses"
+        "chairs & tables"
       ],
       "rating": "5,0",
       "isBestseller": true,
