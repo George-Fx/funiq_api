@@ -242,7 +242,7 @@
     },
     {
       "id": 4,
-      "name": "Long summer skirt",
+      "name": "Table & 3 Chairs",
       "price": 59.0,
       "image": "https://george-fx.github.io/funiq_api/assets/products/04.jpg",
       "images": [
@@ -279,7 +279,7 @@
         }
       ],
       "tags": [
-        "dresses"
+        "table & chairs"
       ],
       "rating": "5,0",
       "isBestseller": true,
