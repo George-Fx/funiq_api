@@ -473,8 +473,8 @@
     },
     {
       "id": 7,
-      "name": "Long sleeve shirt",
-      "price": 76.0,
+      "name": "Chair yellow",
+      "price": 156.3,
       "image": "https://george-fx.github.io/funiq_api/assets/products/07.jpg",
       "images": [
         "https://george-fx.github.io/funiq_api/assets/products/07.jpg",
@@ -510,7 +510,7 @@
         }
       ],
       "tags": [
-        "t-shirts"
+        "chairs & tables"
       ],
       "rating": "5,0",
       "isBestseller": false,
