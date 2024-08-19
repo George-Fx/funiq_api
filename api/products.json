@@ -874,8 +874,8 @@
     },
     {
       "id": 12,
-      "name": "Summer trainers",
-      "price": 84.2,
+      "name": "Soft armchair Black",
+      "price": 302.4,
       "image": "https://george-fx.github.io/funiq_api/assets/products/12.jpg",
       "images": [
         "https://george-fx.github.io/funiq_api/assets/products/12.jpg",
@@ -911,7 +911,7 @@
         }
       ],
       "tags": [
-        "shoes"
+        "chairs & tables"
       ],
       "rating": "5,0",
       "isBestseller": false,
