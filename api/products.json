@@ -633,7 +633,7 @@
     },
     {
       "id": 9,
-      "name": "Summer beach hat",
+      "name": "Chair",
       "price": 24.5,
       "oldPrice": 38.0,
       "image": "https://george-fx.github.io/funiq_api/assets/products/09.jpg",
@@ -671,7 +671,7 @@
         }
       ],
       "tags": [
-        "accessories"
+        "chairs & tables"
       ],
       "rating": "5,0",
       "isBestseller": false,
