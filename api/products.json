@@ -6,9 +6,9 @@
       "price": 12.7,
       "image": "https://george-fx.github.io/funiq_api/assets/products/01.jpg",
       "images": [
-        "https://george-fx.github.io/kastelli/assets/products/01.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/01.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/01.jpg"
+        "https://george-fx.github.io/funiq_api/assets/products/01.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/01.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/01.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sizes": [
@@ -57,7 +57,7 @@
         {
           "id": 1,
           "name": "Adrianna Mercado",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/01.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -65,7 +65,7 @@
         {
           "id": 2,
           "name": "Dante Valdez",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/02.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -73,7 +73,7 @@
         {
           "id": 3,
           "name": "Troy Ingram",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/03.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -81,7 +81,7 @@
         {
           "id": 4,
           "name": "Joshua Bean",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/04.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -93,11 +93,11 @@
       "name": "Shor summer dress",
       "price": 129.0,
       "oldPrice": 150.0,
-      "image": "https://george-fx.github.io/kastelli/assets/products/02.jpg",
+      "image": "https://george-fx.github.io/funiq_api/assets/products/02.jpg",
       "images": [
-        "https://george-fx.github.io/kastelli/assets/products/02.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/02.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/02.jpg"
+        "https://george-fx.github.io/funiq_api/assets/products/02.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/02.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/02.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sizes": [
@@ -146,7 +146,7 @@
         {
           "id": 1,
           "name": "Adrianna Mercado",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/01.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -154,7 +154,7 @@
         {
           "id": 2,
           "name": "Dante Valdez",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/02.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -162,7 +162,7 @@
         {
           "id": 3,
           "name": "Troy Ingram",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/03.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -170,7 +170,7 @@
         {
           "id": 4,
           "name": "Joshua Bean",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/04.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -181,11 +181,11 @@
       "id": 3,
       "name": "Long summer dress",
       "price": 245.9,
-      "image": "https://george-fx.github.io/kastelli/assets/products/03.jpg",
+      "image": "https://george-fx.github.io/funiq_api/assets/products/03.jpg",
       "images": [
-        "https://george-fx.github.io/kastelli/assets/products/03.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/03.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/03.jpg"
+        "https://george-fx.github.io/funiq_api/assets/products/03.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/03.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/03.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sizes": [
@@ -234,7 +234,7 @@
         {
           "id": 1,
           "name": "Adrianna Mercado",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/01.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -242,7 +242,7 @@
         {
           "id": 2,
           "name": "Dante Valdez",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/02.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -250,7 +250,7 @@
         {
           "id": 3,
           "name": "Troy Ingram",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/03.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -258,7 +258,7 @@
         {
           "id": 4,
           "name": "Joshua Bean",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/04.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -269,11 +269,11 @@
       "id": 4,
       "name": "Long summer skirt",
       "price": 59.0,
-      "image": "https://george-fx.github.io/kastelli/assets/products/04.jpg",
+      "image": "https://george-fx.github.io/funiq_api/assets/products/04.jpg",
       "images": [
-        "https://george-fx.github.io/kastelli/assets/products/04.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/04.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/04.jpg"
+        "https://george-fx.github.io/funiq_api/assets/products/04.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/04.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/04.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sizes": [
@@ -322,7 +322,7 @@
         {
           "id": 1,
           "name": "Adrianna Mercado",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/01.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -330,7 +330,7 @@
         {
           "id": 2,
           "name": "Dante Valdez",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/02.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -338,7 +338,7 @@
         {
           "id": 3,
           "name": "Troy Ingram",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/03.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -346,7 +346,7 @@
         {
           "id": 4,
           "name": "Joshua Bean",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/04.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -357,11 +357,11 @@
       "id": 5,
       "name": "Summer shorts",
       "price": 39.6,
-      "image": "https://george-fx.github.io/kastelli/assets/products/05.jpg",
+      "image": "https://george-fx.github.io/funiq_api/assets/products/05.jpg",
       "images": [
-        "https://george-fx.github.io/kastelli/assets/products/05.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/05.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/05.jpg"
+        "https://george-fx.github.io/funiq_api/assets/products/05.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/05.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/05.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sizes": [
@@ -405,7 +405,7 @@
         {
           "id": 1,
           "name": "Adrianna Mercado",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/01.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -413,7 +413,7 @@
         {
           "id": 2,
           "name": "Dante Valdez",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/02.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -421,7 +421,7 @@
         {
           "id": 3,
           "name": "Troy Ingram",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/03.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -429,7 +429,7 @@
         {
           "id": 4,
           "name": "Joshua Bean",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/04.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -441,11 +441,11 @@
       "name": "Evening dress",
       "price": 149.9,
       "oldPrice": 185.0,
-      "image": "https://george-fx.github.io/kastelli/assets/products/06.jpg",
+      "image": "https://george-fx.github.io/funiq_api/assets/products/06.jpg",
       "images": [
-        "https://george-fx.github.io/kastelli/assets/products/06.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/06.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/06.jpg"
+        "https://george-fx.github.io/funiq_api/assets/products/06.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/06.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/06.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sizes": [
@@ -489,7 +489,7 @@
         {
           "id": 1,
           "name": "Adrianna Mercado",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/01.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -497,7 +497,7 @@
         {
           "id": 2,
           "name": "Dante Valdez",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/02.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -505,7 +505,7 @@
         {
           "id": 3,
           "name": "Troy Ingram",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/03.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -513,7 +513,7 @@
         {
           "id": 4,
           "name": "Joshua Bean",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/04.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -524,11 +524,11 @@
       "id": 7,
       "name": "Long sleeve shirt",
       "price": 76.0,
-      "image": "https://george-fx.github.io/kastelli/assets/products/07.jpg",
+      "image": "https://george-fx.github.io/funiq_api/assets/products/07.jpg",
       "images": [
-        "https://george-fx.github.io/kastelli/assets/products/07.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/07.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/07.jpg"
+        "https://george-fx.github.io/funiq_api/assets/products/07.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/07.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/07.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sizes": [
@@ -577,7 +577,7 @@
         {
           "id": 1,
           "name": "Adrianna Mercado",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/01.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -585,7 +585,7 @@
         {
           "id": 2,
           "name": "Dante Valdez",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/02.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -593,7 +593,7 @@
         {
           "id": 3,
           "name": "Troy Ingram",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/03.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -601,7 +601,7 @@
         {
           "id": 4,
           "name": "Joshua Bean",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/04.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -612,11 +612,11 @@
       "id": 8,
       "name": "Warm winter hat",
       "price": 8.6,
-      "image": "https://george-fx.github.io/kastelli/assets/products/08.jpg",
+      "image": "https://george-fx.github.io/funiq_api/assets/products/08.jpg",
       "images": [
-        "https://george-fx.github.io/kastelli/assets/products/08.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/08.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/08.jpg"
+        "https://george-fx.github.io/funiq_api/assets/products/08.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/08.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/08.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sizes": [
@@ -665,7 +665,7 @@
         {
           "id": 1,
           "name": "Adrianna Mercado",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/01.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -673,7 +673,7 @@
         {
           "id": 2,
           "name": "Dante Valdez",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/02.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -681,7 +681,7 @@
         {
           "id": 3,
           "name": "Troy Ingram",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/03.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -689,7 +689,7 @@
         {
           "id": 4,
           "name": "Joshua Bean",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/04.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -701,11 +701,11 @@
       "name": "Summer beach hat",
       "price": 24.5,
       "oldPrice": 38.0,
-      "image": "https://george-fx.github.io/kastelli/assets/products/09.jpg",
+      "image": "https://george-fx.github.io/funiq_api/assets/products/09.jpg",
       "images": [
-        "https://george-fx.github.io/kastelli/assets/products/09.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/09.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/09.jpg"
+        "https://george-fx.github.io/funiq_api/assets/products/09.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/09.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/09.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sizes": [
@@ -754,7 +754,7 @@
         {
           "id": 1,
           "name": "Adrianna Mercado",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/01.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -762,7 +762,7 @@
         {
           "id": 2,
           "name": "Dante Valdez",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/02.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -770,7 +770,7 @@
         {
           "id": 3,
           "name": "Troy Ingram",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/03.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -778,7 +778,7 @@
         {
           "id": 4,
           "name": "Joshua Bean",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/04.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -789,11 +789,11 @@
       "id": 10,
       "name": "Small leather backpack",
       "price": 167.5,
-      "image": "https://george-fx.github.io/kastelli/assets/products/10.jpg",
+      "image": "https://george-fx.github.io/funiq_api/assets/products/10.jpg",
       "images": [
-        "https://george-fx.github.io/kastelli/assets/products/10.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/10.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/10.jpg"
+        "https://george-fx.github.io/funiq_api/assets/products/10.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/10.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/10.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sizes": [
@@ -842,7 +842,7 @@
         {
           "id": 1,
           "name": "Adrianna Mercado",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/01.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -850,7 +850,7 @@
         {
           "id": 2,
           "name": "Dante Valdez",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/02.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -858,7 +858,7 @@
         {
           "id": 3,
           "name": "Troy Ingram",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/03.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -866,7 +866,7 @@
         {
           "id": 4,
           "name": "Joshua Bean",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/04.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -877,11 +877,11 @@
       "id": 11,
       "name": "Modern undershirt",
       "price": 33.7,
-      "image": "https://george-fx.github.io/kastelli/assets/products/11.jpg",
+      "image": "https://george-fx.github.io/funiq_api/assets/products/11.jpg",
       "images": [
-        "https://george-fx.github.io/kastelli/assets/products/11.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/11.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/11.jpg"
+        "https://george-fx.github.io/funiq_api/assets/products/11.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/11.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/11.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sizes": [
@@ -931,7 +931,7 @@
         {
           "id": 1,
           "name": "Adrianna Mercado",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/01.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -939,7 +939,7 @@
         {
           "id": 2,
           "name": "Dante Valdez",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/02.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -947,7 +947,7 @@
         {
           "id": 3,
           "name": "Troy Ingram",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/03.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -955,7 +955,7 @@
         {
           "id": 4,
           "name": "Joshua Bean",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/04.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -966,11 +966,11 @@
       "id": 12,
       "name": "Summer trainers",
       "price": 84.2,
-      "image": "https://george-fx.github.io/kastelli/assets/products/12.jpg",
+      "image": "https://george-fx.github.io/funiq_api/assets/products/12.jpg",
       "images": [
-        "https://george-fx.github.io/kastelli/assets/products/12.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/12.jpg",
-        "https://george-fx.github.io/kastelli/assets/products/12.jpg"
+        "https://george-fx.github.io/funiq_api/assets/products/12.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/12.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/12.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sizes": [
@@ -1019,7 +1019,7 @@
         {
           "id": 1,
           "name": "Adrianna Mercado",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/01.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -1027,7 +1027,7 @@
         {
           "id": 2,
           "name": "Dante Valdez",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/02.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -1035,7 +1035,7 @@
         {
           "id": 3,
           "name": "Troy Ingram",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/03.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
@@ -1043,7 +1043,7 @@
         {
           "id": 4,
           "name": "Joshua Bean",
-          "image": "https://george-fx.github.io/kastelli/assets/reviews/04.jpg",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Mar"
