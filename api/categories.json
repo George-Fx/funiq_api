@@ -2,32 +2,32 @@
     "categories": [
         {
             "id": 1,
-            "name": "dresses",
+            "name": "lightning",
             "image": "https://george-fx.github.io/funiq_api/assets/categories/01.jpg"
         },
         {
             "id": 2,
-            "name": "pants",
+            "name": "bedding",
             "image": "https://george-fx.github.io/funiq_api/assets/categories/02.jpg"
         },
         {
             "id": 3,
-            "name": "accessories",
+            "name": "chairs & tables",
             "image": "https://george-fx.github.io/funiq_api/assets/categories/03.jpg"
         },
         {
             "id": 4,
-            "name": "shoes",
+            "name": "office",
             "image": "https://george-fx.github.io/funiq_api/assets/categories/04.jpg"
         },
         {
             "id": 5,
-            "name": "t-shirts",
+            "name": "decor",
             "image": "https://george-fx.github.io/funiq_api/assets/categories/05.jpg"
         },
         {
             "id": 6,
-            "name": "suits",
+            "name": "garden",
             "image": "https://george-fx.github.io/funiq_api/assets/categories/06.jpg"
         }
     ]
