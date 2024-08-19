@@ -3,38 +3,32 @@
         {
             "id": 1,
             "name": "dresses",
-            "image": "https://george-fx.github.io/funiq_api/assets/categories/01.jpg",
-            "qty": 36
+            "image": "https://george-fx.github.io/funiq_api/assets/categories/01.jpg"
         },
         {
             "id": 2,
             "name": "pants",
-            "image": "https://george-fx.github.io/funiq_api/assets/categories/02.jpg",
-            "qty": 621
+            "image": "https://george-fx.github.io/funiq_api/assets/categories/02.jpg"
         },
         {
             "id": 3,
             "name": "accessories",
-            "image": "https://george-fx.github.io/funiq_api/assets/categories/03.jpg",
-            "qty": 112
+            "image": "https://george-fx.github.io/funiq_api/assets/categories/03.jpg"
         },
         {
             "id": 4,
             "name": "shoes",
-            "image": "https://george-fx.github.io/funiq_api/assets/categories/04.jpg",
-            "qty": 150
+            "image": "https://george-fx.github.io/funiq_api/assets/categories/04.jpg"
         },
         {
             "id": 5,
             "name": "t-shirts",
-            "image": "https://george-fx.github.io/funiq_api/assets/categories/05.jpg",
-            "qty": 54
+            "image": "https://george-fx.github.io/funiq_api/assets/categories/05.jpg"
         },
         {
             "id": 6,
             "name": "suits",
-            "image": "https://george-fx.github.io/funiq_api/assets/categories/06.jpg",
-            "qty": 98
+            "image": "https://george-fx.github.io/funiq_api/assets/categories/06.jpg"
         }
     ]
 }
