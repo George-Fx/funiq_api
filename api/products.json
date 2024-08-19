@@ -322,8 +322,8 @@
     },
     {
       "id": 5,
-      "name": "Summer shorts",
-      "price": 39.6,
+      "name": "Chair white",
+      "price": 164.7,
       "image": "https://george-fx.github.io/funiq_api/assets/products/05.jpg",
       "images": [
         "https://george-fx.github.io/funiq_api/assets/products/05.jpg",
@@ -354,7 +354,7 @@
         }
       ],
       "tags": [
-        "women"
+        "chairs & tables"
       ],
       "rating": "5,0",
       "isBestseller": true,
