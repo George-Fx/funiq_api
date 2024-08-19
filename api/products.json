@@ -82,9 +82,8 @@
     },
     {
       "id": 2,
-      "name": "Shor summer dress",
-      "price": 129.0,
-      "oldPrice": 150.0,
+      "name": "Wooden chair",
+      "price": 187,
       "image": "https://george-fx.github.io/funiq_api/assets/products/02.jpg",
       "images": [
         "https://george-fx.github.io/funiq_api/assets/products/02.jpg",
