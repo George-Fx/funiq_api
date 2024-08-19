@@ -714,8 +714,8 @@
     },
     {
       "id": 10,
-      "name": "Small leather backpack",
-      "price": 167.5,
+      "name": "Armchair gray",
+      "price": 229.7,
       "image": "https://george-fx.github.io/funiq_api/assets/products/10.jpg",
       "images": [
         "https://george-fx.github.io/funiq_api/assets/products/10.jpg",
@@ -751,7 +751,7 @@
         }
       ],
       "tags": [
-        "accessories"
+        "chairs & tables"
       ],
       "rating": "5,0",
       "isBestseller": false,
