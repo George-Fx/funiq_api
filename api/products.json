@@ -400,7 +400,6 @@
       "name": "Armchair grey",
       "price": 206.73,
       "oldPrice": 229.7,
-      "promotion": "Dining chairs with 10% off",
       "image": "https://george-fx.github.io/funiq_api/assets/products/06.jpg",
       "images": [
         "https://george-fx.github.io/funiq_api/assets/products/06.jpg",
@@ -637,7 +636,6 @@
       "name": "Chair",
       "price": 206.73,
       "oldPrice": 229.7,
-      "promotion": "Dining chairs with 10% off",
       "image": "https://george-fx.github.io/funiq_api/assets/products/09.jpg",
       "images": [
         "https://george-fx.github.io/funiq_api/assets/products/09.jpg",
