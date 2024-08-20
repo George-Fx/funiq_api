@@ -636,6 +636,7 @@
       "name": "Chair",
       "price": 142.2,
       "oldPrice": 229.7,
+      "promotion": "Dining chairs with 10% off",
       "image": "https://george-fx.github.io/funiq_api/assets/products/09.jpg",
       "images": [
         "https://george-fx.github.io/funiq_api/assets/products/09.jpg",
